@@ -13,6 +13,6 @@ config BR2_PACKAGE_XFSPROGS
 	select BR2_PACKAGE_UTIL_LINUX
 	select BR2_PACKAGE_UTIL_LINUX_LIBUUID
 	help
-	  The XFS file system utilities and libraries
-
-	  http://oss.sgi.com/projects/xfs/
+	The XFS file system utilities and libraries
+	
+	https://ftp.osuosl.org/pub/blfs/conglomeration/xfsprogs/
